@@ -1,0 +1,21 @@
+{
+	"version": "0.1",
+	"name": "World's Hour",
+	"description": "Hour of major world cities",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "/img/128.png"
+	},
+	"developer": {
+		"name": "Guilherme Farias",
+		"url": "http://guilhermefarias.com"
+	},
+	"installs_allowed_from": ["*"],
+	"locales": {
+		"pt_BR": {
+			"name": "Horários no Mundo",
+			"description": "Horário das principais cidades do mundo"
+		}
+	},
+	"default_locale": "en"
+}
